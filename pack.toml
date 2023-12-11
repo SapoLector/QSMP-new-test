@@ -1,0 +1,13 @@
+name = "QSMP HOMEBREW"
+author = "Sapo-Lector"
+version = "1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "3c27cf257337d837def2fe0e1cfa2bf1870675d6dacce786292d4d3893533ef0"
+
+[versions]
+forge = "40.2.10"
+minecraft = "1.18.2"
