@@ -1,0 +1,13 @@
+name = "Apathy Mod"
+filename = "apathy-forge-1.18.2-2.7.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "575d3bfc142457091de2cffa467b4c28676751d2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4611842
+project-id = 499846

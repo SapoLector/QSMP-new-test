@@ -1,0 +1,13 @@
+name = "AutoFish for Forge"
+filename = "forgeautofish-4.2.0-1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d8d21289d7c96098d9b7e2f152e8efdadda49957"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4478602
+project-id = 395327

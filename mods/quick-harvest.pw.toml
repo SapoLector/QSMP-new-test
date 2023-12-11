@@ -1,0 +1,13 @@
+name = "Quick Harvest"
+filename = "Quick Harvest-1.18.2-1.6.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b357744583bd56ee41b32ed6baa84e9c563dfd0d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3712744
+project-id = 355143

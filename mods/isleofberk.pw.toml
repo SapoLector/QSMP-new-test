@@ -1,0 +1,13 @@
+name = "Isle of Berk"
+filename = "Isle of Berk - 1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a1b371270d5734de613cd889c7f753da977cd51e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4520877
+project-id = 349956

@@ -1,0 +1,13 @@
+name = "Undead Unleashed!"
+filename = "UndeadUnleashed-1.1.1-1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ac6cde4bd73e7b2a0ea41b8415c42733f37c0070"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4608392
+project-id = 817279

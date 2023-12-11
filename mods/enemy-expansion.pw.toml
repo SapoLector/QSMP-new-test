@@ -1,0 +1,13 @@
+name = "Enemy Expansion"
+filename = "enemyexpansion1.14requiresgeckolib.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7b55248d57fd7f091da6b3e25e89cc909c6d90b2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4674616
+project-id = 690139
