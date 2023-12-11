@@ -211,7 +211,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "345c513e6f9a7fe31fa382c5ad34ba9447ffeac4e261c4dd9bb0a49d1cc23dd7"
+hash = "e2ecdb0eaa4c2118a320126f5993f781a302d8dec01a041374d5381ed54d6a44"
 metafile = true
 
 [[files]]
@@ -237,11 +237,6 @@ metafile = true
 [[files]]
 file = "mods/isle-of-berk.pw.toml"
 hash = "3fd4f320fe7d7a427faa5e2c38a72b06364eb5f202ff03cdd8383b9bb9c69f17"
-metafile = true
-
-[[files]]
-file = "mods/isleofberk.pw.toml"
-hash = "69062039d017a842b53556ab80b49910b4c103fe5372c13bee863c91ecb67467"
 metafile = true
 
 [[files]]
