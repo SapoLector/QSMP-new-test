@@ -231,7 +231,7 @@ metafile = true
 
 [[files]]
 file = "mods/isle-of-berk-addons.pw.toml"
-hash = "ff30a5c948fd2fa314487f07a7b0b4a5319560b55f1e6b814fa43efba206445c"
+hash = "cd52ea5e5e3401f83322fdf9987015efd5ade3330a73724e42c56fa1a53e56c9"
 metafile = true
 
 [[files]]
@@ -480,3 +480,7 @@ hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
 [[files]]
 file = "packwiz-installer.jar"
 hash = "3cc3ebd57f1ec54a8ceaccc76e193201f8c957c563c9461253d112c5b087d744"
+
+[[files]]
+file = "packwiz.json"
+hash = "541ec6a282a389484cc81faee56461f393a09552ddac144e914c3f0e07d7ec53"
