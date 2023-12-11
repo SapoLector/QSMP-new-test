@@ -211,7 +211,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "e2ecdb0eaa4c2118a320126f5993f781a302d8dec01a041374d5381ed54d6a44"
+hash = "345c513e6f9a7fe31fa382c5ad34ba9447ffeac4e261c4dd9bb0a49d1cc23dd7"
 metafile = true
 
 [[files]]
@@ -232,6 +232,11 @@ metafile = true
 [[files]]
 file = "mods/isle-of-berk-addons.pw.toml"
 hash = "cd52ea5e5e3401f83322fdf9987015efd5ade3330a73724e42c56fa1a53e56c9"
+metafile = true
+
+[[files]]
+file = "mods/isle-of-berk.pw.toml"
+hash = "3fd4f320fe7d7a427faa5e2c38a72b06364eb5f202ff03cdd8383b9bb9c69f17"
 metafile = true
 
 [[files]]
